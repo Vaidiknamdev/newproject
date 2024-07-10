@@ -2,7 +2,6 @@
     <body>
         <h3>faculty account creation form</h3>
         <hr>
-        <h2>hello vaidik wants to change</h2>
         <form action="FacultyAccountServlet" method="post">
             <table border="0">
                 <tr>
